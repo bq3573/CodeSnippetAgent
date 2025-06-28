@@ -39,6 +39,6 @@ You can override this context with flags like `--ns` to request neutral or alter
 3. **Create an empty snippets.json file in the root:**
    "[]" - should be all that's in there to get started
 ## 🧠 Usage
-- python main.py
+  python main.py
 ## 🔍 Extra Commands (Search Saved Snippets)
   python main.py --s ajax
